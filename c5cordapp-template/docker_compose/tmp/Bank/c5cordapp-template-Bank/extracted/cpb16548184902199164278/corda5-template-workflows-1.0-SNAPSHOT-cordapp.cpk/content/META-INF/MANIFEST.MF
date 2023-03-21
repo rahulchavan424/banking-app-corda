@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Corda-CPK-Format: 1.0
+Corda-CPK-Cordapp-Name: com.r3.devrel.corda5-template-workflows
+Corda-CPK-Cordapp-Version: 1.0.0.SNAPSHOT
+Corda-CPK-Cordapp-Licence: Unknown
+Corda-CPK-Cordapp-Vendor: R3
+Corda-CPK-Built-Platform-Version: 999
+
+Name: corda5-template-workflows-1.0-SNAPSHOT.jar
+SHA-256-Digest: mAv0sqjOwxZln9OuFeR6p26ePVvdySRM9cSQyFASUjU=
+

@@ -1,0 +1,13 @@
+ERROR StatusLogger Log4j2 could not find a logging implementation. Please add log4j-core to the classpath. Using SimpleLogger to log to the console...
+
+[91m   ______               __
+  / ____/     _________/ /___ _
+ / /     __  / ___/ __  / __ `/         [94mPeople used to laugh at me when I said I wanted
+[91m/ /___  /_/ / /  / /_/ / /_/ /          [94mto be a comedian. Well they're not laughing now!
+[91m\____/     /_/   \__,_/\__,_/[m
+
+[99;1m--- Unknown 5.0.0-DevPreview-1.0.1 (21ca6d8) -------------------------------------------------------------
+
+[m
+Logs can be found in                    : /opt/nodes/bootstrapper/c5cordapp-template-notary/logs
+Shutting down ...
